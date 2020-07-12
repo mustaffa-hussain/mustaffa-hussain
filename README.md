@@ -1,10 +1,11 @@
 ### Hi there 👋
 🔭 I’m currently working on Machine Learning using Graphs <br>
 🌱 I’m currently learning Neo4j <br>
-👯 I’m looking to collaborate on ML and DL with realworld usecase.
-💬 I have Medium Publication @theCyPhy. We write about ML,DL and other tech changes in the world.
-📫 How to reach me: mustaffahussain4734@gmail.com
-⚡ Fun fact: Stuck with something, have a donut.
+👯 I’m looking to collaborate on ML and DL with realworld usecase. <br>
+💬 I have Medium Publication @theCyPhy. We write about ML,DL and other tech changes in the world.<br>
+📫 How to reach me: mustaffahussain4734@gmail.com<br>
+🔨 Portfolio link: https://mustaffa-hussain.github.io/Portfolio/ <br>
+⚡ Fun fact: Stuck with something, have a donut.<br>
 
 <!--
 **mustaffa-hussain/mustaffa-hussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
