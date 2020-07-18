@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on Machine Learning using Graphs <br>
+🔭 I’m currently working as a Machine Learning Engineer Trainee <br>
 🌱 I’m currently learning Neo4j <br>
 👯 I’m looking to collaborate on ML and DL with realworld usecase. <br>
 📫 How to reach me: mustaffahussain4734@gmail.com<br>
