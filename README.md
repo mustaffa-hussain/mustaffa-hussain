@@ -1,16 +1,6 @@
-div {
-	width: 100px;
-	height: 100px;
-	background-color: red;
-	
-	position: absolute;
-	top:0;
-	bottom: 0;
-	left: 0;
-	right: 0;
-  	
-	margin: auto;
-}
+<p class="aligncenter">
+[word cloud]<img src="wordcloud(1).jpg">
+</p>
 <div class="demo--js"
     data-frenchdip="DemoJS"
     data-heading="nananana Batman"
