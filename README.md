@@ -1,6 +1,5 @@
-<p class="aligncenter">
+
 [word cloud]<img src="wordcloud(1).jpg">
-</p>
 <div class="demo--js"
     data-frenchdip="DemoJS"
     data-heading="nananana Batman"
