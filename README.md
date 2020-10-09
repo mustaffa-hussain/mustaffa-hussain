@@ -1,4 +1,4 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mustaffa-hussain)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mustaffa-hussain&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ![word cloud]<img src="wordcloud(1).jpg">
 <div class="demo--js"
     data-frenchdip="DemoJS"
