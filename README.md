@@ -1,5 +1,10 @@
-[![mustaffas github stats](https://github-readme-stats.vercel.app/api?username=mustaffa-hussain&count_private=true)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustaffa-hussain)]
+<div class="demo--js"
+    data-frenchdip="DemoJS"
+    data-heading="nananana Batman"
+    data-new-src="batman.png"
+    data-interval="3000">
+    <img src="wordcloud(1).jpg"/>
+</div>
 
 <div class="demo--js"
     data-frenchdip="DemoJS"
