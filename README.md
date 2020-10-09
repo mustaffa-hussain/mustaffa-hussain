@@ -1,6 +1,6 @@
-[![mustaffas github stats](https://github-readme-stats.vercel.app/api?username=mustaffa-hussain&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustaffa-hussain)](https://github.com/anuraghazra/github-readme-stats)
-[![word cloud]<img src="wordcloud(1).jpg">]
+[![mustaffas github stats](https://github-readme-stats.vercel.app/api?username=mustaffa-hussain&count_private=true)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustaffa-hussain)]
+
 <div class="demo--js"
     data-frenchdip="DemoJS"
     data-heading="nananana Batman"
