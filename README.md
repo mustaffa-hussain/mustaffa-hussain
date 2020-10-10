@@ -3,7 +3,7 @@
     data-heading="nananana Batman"
     data-new-src="batman.png"
     data-interval="3000">
-    <img src="wordcloud(1).jpg"/>
+    <img src="wordcloud (1).jpg"/>
 </div>
 
 <div class="demo--js"
