@@ -1,18 +1,4 @@
-<div class="demo--js"
-    data-frenchdip="DemoJS"
-    data-heading="nananana Batman"
-    data-new-src="batman.png"
-    data-interval="3000">
-    <img src="wordcloud (1).jpg"/>
-</div>
 
-<div class="demo--js"
-    data-frenchdip="DemoJS"
-    data-heading="nananana Batman"
-    data-new-src="batman.png"
-    data-interval="3000">
-    <img src="batman2.png"/>
-</div>
 <img src="batman.jpg">
 
 ### Hi there 👋
