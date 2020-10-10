@@ -13,7 +13,7 @@
     data-interval="3000">
     <img src="batman2.png"/>
 </div>
-<img src="batman.jpeg">
+<img src="batman.jpg">
 
 ### Hi there 👋
 🔭 I’m currently working as a Machine Learning Engineer Trainee <br>
