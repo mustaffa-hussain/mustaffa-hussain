@@ -1,14 +1,12 @@
 
-<img src="batman.jpg">
-
 ### Hi there 👋
 🔭 I’m currently working as a Machine Learning Engineer Trainee <br>
 🌱 I’m currently working on Knowledge Graphs <br>
 👯 I’m looking to collaborate on ML and DL with realworld usecase. <br>
 📫 How to reach me: mustaffahussain4734@gmail.com<br>
 🔨 Portfolio link: https://mustaffa-hussain.github.io/Portfolio/ <br>
-💬 I have Medium Publication @theCyPhy.[ https://medium.com/thecyphy ]We write about ML,DL and other tech changes in the world. Drop message to contribute<br>
-⚡ Fun fact: Stuck with something, have a donut.<br>
+💬 I maintain a Medium Publication @theCyPhy.[ https://medium.com/thecyphy ]We write about ML,DL and other tech changes in the world. Drop message to contribute<br>
+⚡ Fun fact: Stuck with something, go grab a byte.<br>
 
 <!--
 **mustaffa-hussain/mustaffa-hussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
