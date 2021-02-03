@@ -6,7 +6,7 @@
 📫 How to reach me: mustaffahussain4734@gmail.com<br>
 🔨 Portfolio link: https://mustaffa-hussain.github.io/Portfolio/ <br>
 💬 I maintain a Medium Publication @theCyPhy.[ https://medium.com/thecyphy ]We write about ML,DL and other tech changes in the world. Drop message to contribute<br>
-⚡ Fun fact: Stuck with something, go grab a byte.<br>
+⚡ <b>Stuck with something, go grab a byte.</b><br>
 
 <!--
 **mustaffa-hussain/mustaffa-hussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
