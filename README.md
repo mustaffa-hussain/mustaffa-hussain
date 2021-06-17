@@ -1,7 +1,6 @@
 
 ### Hi there 👋
-🔭 I’m currently working as a Machine Learning Engineer Trainee <br>
-🌱 I’m currently working on Knowledge Graphs <br>
+🔭 I’m currently working as a Machine Learning scientist <br>
 👯 I’m looking to collaborate on ML and DL with realworld usecase. <br>
 📫 How to reach me: mustaffahussain4734@gmail.com<br>
 🔨 Portfolio link: https://mustaffa-hussain.github.io/Portfolio/ <br>
